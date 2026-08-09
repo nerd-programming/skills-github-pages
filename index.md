@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog! This is the first GitHub Pages. 
+title: Welcome to my blog! This is the place practicing the use of GitHub. 
 ---
